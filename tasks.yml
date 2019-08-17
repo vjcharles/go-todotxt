@@ -1,0 +1,59 @@
+---
+- content:      |+ // Original raw task text.
+    eat more apples
+    seriously ::food::
+  priority:      ""
+  projects:
+    - food
+  contexts:
+    - task
+    - ios
+  additionalTags: // Addon tags available here
+    source: "2017-12-18_215745.txt?line=0&column=2"
+    pri:         '' //needed? redundant
+    due:         20171218T215745-0500
+    //add keys with full dates to preserve times.
+  createdDate:   20171218T215745-0500
+  //DueDate:       20171218T215745-0500
+  completedDate: 20171218T215745-0500
+  completed:     false
+
+- content:      |+ // Original raw task text.
+    eat more apples
+    seriously ::food::
+  priority:      ""
+  projects:
+    - food
+  contexts:
+    - task
+    - ios
+  additionalTags: // Addon tags available here
+    source: "2017-12-18_215745.txt?line=0&column=2"
+    pri:         '' //needed? redundant
+    due:         20171218T215745-0500
+    //add keys with full dates to preserve times.
+  createdDate:   20171218T215745-0500
+  //DueDate:       20171218T215745-0500
+  completedDate: 20171218T215745-0500
+  completed:     false
+
+- content:      |+ // Original raw task text.
+    eat more apples
+    seriously ::food::
+  priority:      ""
+  projects:
+    - food
+  contexts:
+    - task
+    - ios
+  additionalTags: // Addon tags available here
+    source: "2017-12-18_215745.txt?line=0&column=2"
+    pri:         '' //needed? redundant
+    due:         20171218T215745-0500
+    //add keys with full dates to preserve times.
+  createdDate:   20171218T215745-0500
+  //DueDate:       20171218T215745-0500
+  completedDate: 20171218T215745-0500
+  completed:     false
+
+
